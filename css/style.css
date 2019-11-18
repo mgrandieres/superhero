@@ -1,18 +1,18 @@
 @font-face {
 	font-family: "NIGHTMARE PILLS";
-	src: url('font/NightmarePills-BV2w.ttf');
+	src: url('./font/NightmarePills-BV2w.ttf');
 }
 @font-face {
 	font-family: "Fighting Spirit Turbo";
-	src: url('font/Fighting\ Spirit\ 2.ttf');
+	src: url('./font/Fighting\ Spirit\ 2.ttf');
 }
 @font-face {
 	font-family: "Go Speeds";
-	src: url('font/GoSpeeds.ttf');
+	src: url('./font/GoSpeeds.ttf');
 }
 @font-face {
 	font-family: "Shoes Center";
-	src: url('font/Shoes\ center.ttf');
+	src: url('./font/Shoes\ center.ttf');
 }
 
 body{background-color:#201D1D; color: white;}
