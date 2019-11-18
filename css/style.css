@@ -34,6 +34,7 @@ div.img{margin: auto; display: block; object-fit: cover;}
 div.container{border: 2px solid white;}
 div.container .col-md-4{padding:0px; height: 400px;}
 img.head{width: 500px; height: 100px;}
+
 li{font-family: 'Courier New', Courier, monospace;}
 footer h6{text-align: center; font-size: 15px; font-family: 'Go Speeds';}
 
